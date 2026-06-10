@@ -24,6 +24,9 @@ This Power BI project analyzes global depression trends and mental health patter
 - Project Report (.pdf)
 - Dashboard Screenshots
 
+## Source Dataset (Excel)
+- The original dataset used for this project has been included in this repository for educational and portfolio purposes.
+
 ## Key Insights
 - Depression prevalence varies significantly across countries.
 - Females generally show higher depression prevalence than males.
